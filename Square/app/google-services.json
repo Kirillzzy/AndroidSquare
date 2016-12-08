@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "689718173451",
+    "firebase_url": "https://tricube-6f91f.firebaseio.com",
+    "project_id": "tricube-6f91f",
+    "storage_bucket": "tricube-6f91f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689718173451:android:7db475a5d3f7e2b9",
+        "android_client_info": {
+          "package_name": "org.altvision.tricube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689718173451-6i024id2svkjr8c8dn4qopisnsihtqvk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.altvision.tricube",
+            "certificate_hash": "9E3E182A6F275E59750F4B15B58566575D8A311A"
+          }
+        },
+        {
+          "client_id": "689718173451-69v4q59t2jfnqsbe8u4o2eqplt3i31gr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6lPCFUOP7xuF-__Lu5SMXdBQRoGco164"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689718173451-69v4q59t2jfnqsbe8u4o2eqplt3i31gr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

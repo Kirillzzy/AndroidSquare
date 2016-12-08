@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TriCube</string>
+    <string name="newGameButton">NEW\n GAME</string>
+    <string name="scoreLabelText">SCORE\n0</string>
+    <string name="bestLabelText">BEST\n0</string>
+    <string name="banner">ca-app-pub-9693937253743635/4135359900</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-9693937253743635/6149072704</string>
+
+    <string-array name="difficult">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_activity_settings">ActivitySettings</string>
+    <string name="title_activity_complexity">Complexity</string>
+    <string name="title_activity_rools">Rools</string>
+    <string name="title_activity_beggining">Beggining</string>
+    <string name="title_activity_elements">elementsActivity</string>
+    <string name="title_activity_colors">colorsActivity</string>
+</resources>
